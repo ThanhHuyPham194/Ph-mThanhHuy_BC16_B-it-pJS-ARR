@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    background-color: black ;
+    color: #Fff ;
+    padding: 20px 0;
+}
+.btn-push{
+    text-align: right;
+    padding: 20px 10px;
+    background-color: #666;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 66%;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+thead{
+    background-color: rgb(0, 140, 255);
+}
+tr{
+    text-align: center;
+}
